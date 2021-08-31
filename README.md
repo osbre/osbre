@@ -3,7 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/ostapbregin" target="blank"><img src="https://img.shields.io/twitter/follow/ostapbregin?logo=twitter&style=for-the-badge" alt="ostapbregin" /></a> </p>
 
-- 🔭 I’m currently working on [NotionMailer](https://notionmailer)
+- 🔭 I’m currently working on
+  - [“The first freeform social network web to unleash your creativity.”](https://www.producthunt.com/upcoming/paperapp)
+  - [“Easily send emails written in Notion. Integrates with your favorite tools.”](https://notionmailer.com)
+  - [“A petitions app for Ukrainian schools”](https://github.com/smuzi-ua/dumka-backend) (I’m doing the back-end part there)
 
 - 🌱 I’m currently learning **how to build micro-SaaS business**
 
