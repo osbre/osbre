@@ -8,7 +8,7 @@
   - [“Easily send emails written in Notion. Integrates with your favorite tools.”](https://notionmailer.com)
   - [“A petitions app for Ukrainian schools”](https://github.com/smuzi-ua/dumka-backend) (I’m doing the back-end part there)
 
-- 🌱 I’m currently learning **how to build micro-SaaS business**
+- 🌱 I’m currently learning **Magento 2** and **how to build micro-SaaS business**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
