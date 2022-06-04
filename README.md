@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ostap</h1>
 <h3 align="center">Developer | Student | Christian</h3>
 
-<p align="left"> <a href="https://twitter.com/ostapbregin" target="blank"><img src="https://img.shields.io/twitter/follow/ostapbregin?logo=twitter&style=for-the-badge" alt="ostapbregin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/OstapBrehin" target="blank"><img src="https://img.shields.io/twitter/follow/OstapBrehin?logo=twitter&style=for-the-badge" alt="ostapbregin" /></a> </p>
 
 - 🔭 I’m currently working on
   - [“The first freeform social network web to unleash your creativity.”](https://www.producthunt.com/upcoming/paperapp)
