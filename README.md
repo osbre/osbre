@@ -1,9 +1,9 @@
 
 
-- Currently working on
+- Recent projects:
   - [“Online group cards for all occasions. Designed for remote teams.”](https://goyella.com)
-  - [“Easily send emails written in Notion. Integrates with your favorite tools.”](https://notionmailer.com)
   - [“Goals App: Track your MRR goals in Stripe”](https://marketplace.stripe.com/apps/goals-1)
+  - [“Easily send emails written in Notion. Integrates with your favorite tools.”](https://notionmailer.com)
   - [”Byel - automatic link shortener app for Mac”](https://getbyel.com/)
 
 <h3 align="left">Social:</h3>
